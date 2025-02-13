@@ -1,7 +1,14 @@
-**Rock Paper Scissors** against the computer.
+# ✊📄✂️ Rock Paper Scissors
 
-The User enteres in **Rock**, **Paper** or **Scissors**, then the computer makes a choice between the same 3 options.
+## 🎯 About
+This program allows the user to play Rock, Paper, Scissors against the computer.
 
-The **rand** function is used to alow the computer to make a randome choice.
+## 🛠️ How It Works
+- The user enters **Rock**, **Paper**, or **Scissors**.
+- The computer makes a choice between the same three options using the `rand` function to ensure randomness.
+- The game determines the outcome:
+  - The user **wins**.
+  - The user **loses**.
+  - The game ends in a **draw**.
 
-the computer can win lose or draw.
+🎮 Have fun and test your luck against the computer! 😊
